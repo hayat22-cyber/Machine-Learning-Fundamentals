@@ -1,0 +1,16 @@
+ Machine Learning Fundamentals
+
+This project focuses on building an end-to-end machine learning model 
+for house price prediction using a provided dataset.
+
+Key tasks:
+Data preprocessing and feature engineering
+Model training using Random Forest
+Model evaluation using MAE and R² score
+Visualization of predictions
+
+Tools used:
+Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+
+Dataset:
+House Prices (provided by internship)
